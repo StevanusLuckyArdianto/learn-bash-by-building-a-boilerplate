@@ -224,3 +224,5 @@ find -name styles.css
 find -name src
 find -name website
 find
+ls --color=auto
+cd /workspace/project/website/client
