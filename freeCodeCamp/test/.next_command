@@ -190,3 +190,4 @@ cd /workspace/project/website/images
 ls --color=auto
 cd /workspace/project/website
 ls --color=auto
+rm header.png
