@@ -122,3 +122,4 @@ more LICENSE-MIT
 clear
 ls --color=auto
 cd /workspace/project/freeCodeCamp/node_modules/has/src
+pwd
