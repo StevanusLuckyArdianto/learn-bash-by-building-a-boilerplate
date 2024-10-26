@@ -138,3 +138,4 @@ __vsc_prompt_cmd_original
 ls --color=auto
 cd /website
 cd /workspace/project/website
+ls --color=auto
