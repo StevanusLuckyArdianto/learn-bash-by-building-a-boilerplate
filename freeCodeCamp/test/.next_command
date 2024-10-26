@@ -219,3 +219,4 @@ find client
 ls --color=auto --help
 ls --color=auto --help find
 find --help
+find -name index.html
