@@ -262,3 +262,4 @@ find header.png
 find -name header.png
 ls --color=auto
 find -name footer.jpeg
+mv images/footer.jpeg client/assets/images
