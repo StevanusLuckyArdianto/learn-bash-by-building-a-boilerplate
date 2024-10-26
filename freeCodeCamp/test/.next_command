@@ -100,3 +100,4 @@ cd /workspace
 ls --color=auto
 cd /workspace/project
 ls --color=auto
+cd /workspace/project/freeCodeCamp
