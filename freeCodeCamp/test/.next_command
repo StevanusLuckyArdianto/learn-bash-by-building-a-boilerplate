@@ -287,3 +287,16 @@ mv CodeRoad.svg client/assets/icons
 mv freeCodeCamp.svg client/assets/icons
 __vsc_prompt_cmd_original
 find
+ls --color=auto
+mv fonts client/assets
+mv fonts client/assets
+ls --color=auto
+ls --color=auto /client
+ls --color=auto client
+ls --color=auto client/assets
+mv client/assets/fonts website
+ls --color=auto
+ls --color=auto website
+mv website fonts
+ls --color=auto
+mkdir client/assets/fonts
