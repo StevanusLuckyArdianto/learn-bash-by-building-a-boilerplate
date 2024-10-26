@@ -112,3 +112,4 @@ more package.json
 clear
 ls --color=auto
 cd /workspace/project/freeCodeCamp/node_modules
+ls --color=auto
