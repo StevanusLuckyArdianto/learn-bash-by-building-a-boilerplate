@@ -244,3 +244,17 @@ cd /workspace/project/website
 find images
 find client/assets/images
 find -name images
+mv header.png /client/assets/images
+mv header.png images
+mv header.png client/assets/images
+mv header.png client/assets/images
+ls --color=auto
+cd /workspace/website/images
+ls --color=auto -l
+pwd
+cd /workspace/project/website/images
+ls --color=auto
+mv header.png ..
+cd ..
+ls --color=auto
+mv header.png client/assets/images
