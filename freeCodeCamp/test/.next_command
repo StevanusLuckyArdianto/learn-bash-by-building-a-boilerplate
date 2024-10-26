@@ -441,3 +441,13 @@ touch client/assets/fonts/lato-bold.ttf
 touch client/assets/fonts/lato-light.ttf
 find
 rm --help
+rm -r client/assets/fonts
+ls --color=auto
+ls --color=auto client
+ls --color=auto client/assets
+ls --color=auto client/assets/icons
+touch client/assets/fonts/lato-bold.ttf
+mkdir client/assets/fonts
+touch client/assets/fonts/lato-bold.ttf
+touch client/assets/fonts/lato-light.ttf
+rm -r fonts
