@@ -178,3 +178,4 @@ mkdir images
 ls --color=auto
 cp background.jpg images
 cd /workspace/project/website/images
+ls --color=auto
