@@ -239,3 +239,8 @@ mv header.png ..
 ls --color=auto
 cd ..
 ls --color=auto
+cd /workspace/project/website/client/assets/images
+cd /workspace/project/website
+find images
+find client/assets/images
+find -name images
