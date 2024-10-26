@@ -235,3 +235,4 @@ touch background.jpg
 cd /workspace/project/website
 cd /workspace/project/website/images
 ls --color=auto
+mv header.png ..
