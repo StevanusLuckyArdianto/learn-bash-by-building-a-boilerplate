@@ -157,3 +157,4 @@ cd /workspace/project/website/.
 sudo cd /workspace/project/website/.
 sudo
 cd .
+touch background.jpg
