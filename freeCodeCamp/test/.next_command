@@ -216,3 +216,6 @@ mv index.js client/src
 mv styles.css client/src
 find
 find client
+ls --color=auto --help
+ls --color=auto --help find
+find --help
