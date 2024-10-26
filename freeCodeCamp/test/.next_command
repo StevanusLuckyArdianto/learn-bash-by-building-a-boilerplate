@@ -186,3 +186,4 @@ ls --color=auto
 cp header.png images
 cp footer.jpeg iamges
 cp footer.jpeg images
+cd /workspace/project/website/images
