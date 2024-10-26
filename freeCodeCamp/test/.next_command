@@ -151,3 +151,9 @@ touch .gitignore
 ls --color=auto
 ls --color=auto --help
 ls --color=auto -a
+cd /workspace/project/website/.
+cd /workspace/project/website/./
+cd /workspace/project/website/.
+sudo cd /workspace/project/website/.
+sudo
+cd .
