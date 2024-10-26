@@ -437,3 +437,4 @@ find client
 pwd
 cd /workspace/project/website
 find client/assets/fonts
+touch client/assets/fonts/lato-bold.ttf
