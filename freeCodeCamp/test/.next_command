@@ -158,3 +158,4 @@ sudo cd /workspace/project/website/.
 sudo
 cd .
 touch background.jpg
+touch header.png
