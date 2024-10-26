@@ -126,3 +126,5 @@ pwd
 cd /workspace/project/freeCodeCamp/node_modules/has/src/
 cd /workspace/project/freeCodeCamp/node_modules/has/src
 ls --color=auto
+more
+more index.js
