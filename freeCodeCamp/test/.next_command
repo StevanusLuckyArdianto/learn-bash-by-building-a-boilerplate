@@ -133,3 +133,4 @@ cd /workspace/project/freeCodeCamp/node_modules
 cd /workspace/project
 ls --color=auto
 clear
+mkdir website
