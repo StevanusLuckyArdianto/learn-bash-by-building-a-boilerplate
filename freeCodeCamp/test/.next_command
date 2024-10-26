@@ -227,3 +227,5 @@ find
 ls --color=auto
 cd /workspace/project/website/client
 mkdir assets
+cd /workspace/project/website/client/asset
+cd /workspace/project/website/client/assets
