@@ -104,3 +104,4 @@ cd /workspace/project/freeCodeCamp
 pwd
 ls --color=auto
 cd /workspace/project/freeCodeCamp/test
+pwd
