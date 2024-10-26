@@ -175,3 +175,4 @@ mkdir image
 rm image
 sudo rm image
 mkdir images
+ls --color=auto
