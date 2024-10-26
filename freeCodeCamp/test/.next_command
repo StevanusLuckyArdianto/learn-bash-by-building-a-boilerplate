@@ -512,3 +512,5 @@ echo one more thing...
 echo I made this boilerplate >> README.md
 more
 more README.md
+echo from the commad line >> README.md
+echo from the command line >> README.md
